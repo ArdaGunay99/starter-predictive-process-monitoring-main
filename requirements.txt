@@ -16,3 +16,4 @@ ipywidgets
 # CUDA enabled PyTorch is very large
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
+torchmetrics
